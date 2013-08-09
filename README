@@ -1,0 +1,5 @@
+Para ejecutarlo se necesita tener instalado python(versión 2.7.4 recomendada) y Qt4 concretamente los siguientes paquetes de ubuntu
+
+ sudo apt-get install pyqt4-dev-tools python python-qt4
+
+si se desea ejecutar en windows, python se descarga  desde la página de python y pyqt desde el siguiente enlace http://www.riverbankcomputing.co.uk/software/pyqt/download
